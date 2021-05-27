@@ -25,6 +25,12 @@ h3 {
 
 a {
   color: #c8c2bc;
+  margin-right: 25px;
+  text-decoration:none;
+}
+
+a:hover{
+  color: #EAF6F6;
 }
 
 span {
@@ -57,7 +63,7 @@ hr{
 
 .bottom-cloud {
   position: absolute;
-  right: 300px;
+  right: 350px;
   top: 50px;
 }
 
@@ -99,6 +105,7 @@ hr{
 
 .copyright{
   color:#EAF6F6;
+  font-size: 0.75rem;
 }
 
 .BUTTON_MVU {
@@ -139,13 +146,4 @@ hr{
    -moz-border-radius: 20px;
    border-radius: 20px;
    text-decoration: none;
-}
-
-.footer-link{
-text-decoration:none;
-margin: auto 20px;
-}
-
-.copyright{
-  margin: 25px auto;
 }
